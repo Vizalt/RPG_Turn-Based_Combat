@@ -16,3 +16,46 @@ This work aims to analyse and display the different types of RPG turn-based comb
 ## Differents kinds of turn-based combat system
 ### Classic Turn-Based Game
 Each player can take as much time as they wish to decide and execute an action. Until the player decides, absolutely nothing in the game changes.
+
+![Pokemon](https://user-images.githubusercontent.com/70697960/155571529-78006905-948d-4632-8309-20bc0511a25c.gif)
+
+Example: [Pokemon Emerald](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Emerald_Version) (2004)
+
+## Timed Turns
+Unlike the Classic, in this type of combat, each player has a limited period of time in which to perform an action. In this way limiting the game time and forcing the player to decide on an option.
+
+![UltimaIIIExodus](https://user-images.githubusercontent.com/70697960/155572973-db3a05cb-9e8a-43a6-8de2-9b7d0ef53eda.png)
+
+Example: [Ultima III:Exodus](https://wiki.ultimacodex.com/wiki/Ultima_III:_Exodus) (1983)
+
+## Active Time Battles
+The turns played are determined by counters that reset each time an action is performed.
+
+![FinalFantasyIV](https://user-images.githubusercontent.com/70697960/155573658-72734b0c-a9d5-4988-972f-e7276857a2b7.gif)
+
+Example: [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy_IV) (1991)
+
+## Simultaneously executed Turns
+It divides the turns into two distinct phases: decision and execution. During the decision phase, each player plans and determines the actions of his units.  Once in the execution phase, the decisions made by all players are put into action automatically and at the same time.
+
+## Clock-Based Turns
+All the unit's actions are linked directly to the game's clock. The turns begin and end depending on the duration of each action, giving a highly variable sequence of turns in no particular order.
+
+## Unit Initiative
+The sequence of turns in some games is determined by the initiative statistic of each unit, regardless of the side to which it belongs.
+
+## Outside Turn
+It allows players to perform an action outside their turn by interrupting their opponents' turns.
+
+![X-COM](https://user-images.githubusercontent.com/70697960/155574420-f5a47170-38c6-4946-907c-b4fb84f8b54f.jpg)
+
+Example: [X-COM](https://xcom.com/es-ES/)(1993-1998)
+## Special turns
+This is when in combat it is necessary to follow different rules, for example not being allowed to use X attack or to use the same action twice in a row.
+
+![KingArthur](https://user-images.githubusercontent.com/70697960/155574594-2c6d1164-8436-4d6d-bdef-631d8f39a5fb.jpg)
+
+Example: [King Arthur](https://en.wikipedia.org/wiki/King_Arthur:_The_Role-Playing_Wargame) (2009)
+## Special phases
+It's when a game is divided in differents phases
+
