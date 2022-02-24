@@ -5,4 +5,4 @@ This page has been written by [Marina Albalà](https://github.com/Vizalt) as par
 
 ## Documentation
 
-*Relevant links*
+**Relevant links**
