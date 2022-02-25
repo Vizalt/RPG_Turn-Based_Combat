@@ -68,22 +68,27 @@ This is when in combat it is necessary to follow different rules, for example no
 
 Example: [_King Arthur_](https://en.wikipedia.org/wiki/King_Arthur:_The_Role-Playing_Wargame) (2009)
 ## Special phases
-It's when a game is divided in differents phases
+It's when a game is divided in differents phases. For example, players orders all units their movement in one phase and then, they attack in a later phase.
+
+Example:  [_Battle Isle_](https://www.youtube.com/watch?v=73N6s0V_3lU)(1991-2001)
 
 ## Pros and Cons
 ### Pros
-- It has a different system based on turn-based that players can choose a variety of games depending on their preference. For example, some people prefer playing classic turn-based games because they don't like playing in real time because they stress easily.
+- It has a different turn-based game where players can choose a variety of games depending on their preference. For example, some people prefer playing classic turn-based games because they don't like playing in real time because they stress easily.
 - The time you have in each turn allows you to make more tactical choices.
 ### Cons
 - In terms of realism, the combat system can be considered unrealistic because of their mechanics. For example, in real life, people do not have specific time to attack or defend in a fight.
 - It can be considered less immersive than other types of systems.
-- In some cases, the mechanics and rules might be challenging for players to learn and understan
+- In some cases, the mechanics and rules might be challenging for players to learn and understant.
 
 ## Turn vs Real Time
 There is debate as to which system is better between real-time and turn-based video games. The arguments in support of real-time systems solve some of the problems caused by turn-based systems.
 To begin with, the lack of realism. The immersion that real-time based systems bring to the players makes them feel the actions and events that take place in the game as well as taking them into the [Magic Circle](https://en.wikipedia.org/wiki/Magic_circle_(virtual_worlds)).
 
+Secondly, real-time games are more suitable for people who prefer multiplayer. Waiting for your round while other players take their turn can be an exhausting task.
+
 ## Evolution of turn-based combat system
+
 ## Implementation requirements
 ## What makes a RPG combat good or bad?
 ## Summary
