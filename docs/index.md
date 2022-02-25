@@ -72,12 +72,20 @@ It's when a game is divided in differents phases
 
 ## Pros and Cons
 ### Pros
-- It has a different system based on turn based that players can choose a variety of games depending on their preference. For example, Some people prefers playing classic turn based games because they don't like playing in real time because they stress.
+- It has a different system based on turn-based that players can choose a variety of games depending on their preference. For example, some people prefer playing classic turn-based games because they don't like playing in real time because they stress easily.
 - The time you have in each turn allows you to make more tactical choices.
 ### Cons
 - In terms of realism, the combat system can be considered unrealistic because of their mechanics. For example, in real life, people do not have specific time to attack or defend in a fight.
 - It can be considered less immersive than other types of systems.
+- In some cases, the mechanics and rules might be challenging for players to learn and understan
 
 ## Turn vs Real Time
 There is debate as to which system is better between real-time and turn-based video games. The arguments in support of real-time systems solve some of the problems caused by turn-based systems.
 To begin with, the lack of realism. The immersion that real-time based systems bring to the players makes them feel the actions and events that take place in the game as well as taking them into the [Magic Circle](https://en.wikipedia.org/wiki/Magic_circle_(virtual_worlds)).
+
+## Evolution of turn-based combat system
+## Implementation requirements
+## What makes a RPG combat good or bad?
+## Summary
+## Documentation
+## About me
