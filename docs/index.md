@@ -85,12 +85,35 @@ Example:  [_Battle Isle_](https://www.youtube.com/watch?v=73N6s0V_3lU)(1991-2001
 There is debate as to which system is better between real-time and turn-based video games. The arguments in support of real-time systems solve some of the problems caused by turn-based systems.
 To begin with, the lack of realism. The immersion that real-time based systems bring to the players makes them feel the actions and events that take place in the game as well as taking them into the [Magic Circle](https://en.wikipedia.org/wiki/Magic_circle_(virtual_worlds)).
 
-Secondly, real-time games are more suitable for people who prefer multiplayer. Waiting for your round while other players take their turn can be an exhausting task.
+Secondly, real-time games are more suitable for people who prefer multiplayer. Several players tend to prefer playing real-time games since they enjoy playing with friends, and also, waiting for your round while other players take their turn can be an exhausting task. 
 
 ## Evolution of turn-based combat system
 
 ## Implementation requirements
 ## What makes a RPG combat good or bad?
+
+These are the main factors for which a turn-based RPG can be considered good or bad.
+### Good
+- Balanced: As the game progresses, it should remain a challenge for the player but not too difficult so that he/she does not get frustrated.
+- Design: It must have an interface that does not cause rejection by the player.
+- Mechanics: It should have mechanics that innovate and stand out so as not to look like just another typical game.
+- Choices: Decisions made by players should have an effect on the game.
+
+### Bad
+
+- Boring: The game should seem dynamic and interesting, it should not contain long animations and enemies must not always use the same actions.
+- Variety: It has been proven that no matter how much a game has impressive mechanics, players will always choose the most efficient mechanic for them, so if one option, such as an attack or a combo of abilities is effective, they will always use that one and not anything else, no matter how amazing it is. Therefore the strategies that the player needs to follow for each fight should change in each one of them so that they do not become monotonous.
+
 ## Summary
 ## Documentation
+
+**Relevant links**
+
+V.S. (2020, 23 julio). [The Evolution of Unique Turn-based Battle Systems Guide!](https://www.reddit.com/r/JRPG/comments/hwdk8p/the_evolution_of_unique_turnbased_battle_systems/) Reddit. 
+
+Rowett, S. (2021, 17 julio). [What Makes A GOOD Turn-Based RPG System?](https://www.cbr.com/jrpgs-turn-based-systems/) CBR. 
+
+D.J.T. (2018, 19 diciembre). [What makes a good combat system?](https://www.reddit.com/r/RPGdesign/comments/a7nz7i/what_makes_a_good_combat_system/) Reddit.
 ## About me
+
+This page has been written by [Marina Albalà](https://github.com/Vizalt) as part of a research project for the subjet Project II in Videogame Design and Development at CITM.
