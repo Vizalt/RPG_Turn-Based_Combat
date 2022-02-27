@@ -3,12 +3,13 @@
 - Introduction
 - Differents kinds of turn-based combat system
 - Pros and cons of different approaches
-- Pros
-- Cons
+  -  Pros
+  -  Cons
 - Turn vs Real Time
-- Evolution of turn-based combat system
 - Implementation requirements
 - What makes a RPG Combat good or bad?
+- Summary
+- Documentation
 
 ## Introduction
 This work aims to analyse and display the different types of RPG turn-based combat.It will be analysed how it has evolved and the progress that different games have contributed to the genre.
@@ -87,9 +88,14 @@ To begin with, the lack of realism. The immersion that real-time based systems b
 
 Secondly, real-time games are more suitable for people who prefer multiplayer. Several players tend to prefer playing real-time games since they enjoy playing with friends, and also, waiting for your round while other players take their turn can be an exhausting task. 
 
-## Evolution of turn-based combat system
-
 ## Implementation requirements
+How to create a turn-based combat? These are the questions you need to ask when creating a combat.
+1. First of all, **have a clear idea of your game**. Think about why combat is required in your game and how you think you want to implement it. Will the combat use specific mechanics? What arena are you will be fighting in?
+2. You need to **decide which system** will fit best or if you're going to try to combine any of them.
+3. Then **develop a loop** for the combat. How is the combat going to start, what happens when you decide the actions, how is it going finish and finally how will the player get out of it when it is over.
+4. **Design the AI**. What enemies will be more smart, what abilities should they have and how much life will they have?
+5. **Design the UI**. What you want to show on the screen and why?
+
 ## What makes a RPG combat good or bad?
 
 These are the main factors for which a turn-based RPG can be considered good or bad.
