@@ -73,6 +73,7 @@ It's when a game is divided in differents phases. For example, players orders al
 Example:  [_Battle Isle_](https://www.youtube.com/watch?v=73N6s0V_3lU)(1991-2001)
 
 ## Pros and Cons
+
 ### Pros
 - It has a different turn-based game where players can choose a variety of games depending on their preference. For example, some people prefer playing classic turn-based games because they don't like playing in real time because they stress easily.
 - The time you have in each turn allows you to make more tactical choices.
