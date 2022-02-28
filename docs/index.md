@@ -110,7 +110,6 @@ These are the main factors for which a turn-based RPG can be considered good or 
 - Boring: The game should seem dynamic and interesting, it should not contain long animations and enemies must not always use the same actions.
 - Variety: It has been proven that no matter how much a game has impressive mechanics, players will always choose the most efficient mechanic for them, so if one option, such as an attack or a combo of abilities is effective, they will always use that one and not anything else, no matter how amazing it is. Therefore the strategies that the player needs to follow for each fight should change in each one of them so that they do not become monotonous.
 
-## Summary
 ## Documentation
 
 **Relevant links**
