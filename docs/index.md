@@ -8,7 +8,6 @@
 - Turn vs Real Time
 - Implementation requirements
 - What makes a RPG Combat good or bad?
-- Summary
 - Documentation
 
 ## Introduction
